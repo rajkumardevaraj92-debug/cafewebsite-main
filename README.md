@@ -47,7 +47,7 @@ style.css → styling
 
 script.js → functionality
 
-README.md → documentation
+README.md → documentation need
 
 ---
 
